@@ -32,7 +32,7 @@ Use Otsu's method to segment the image and display the results.
 
 Developed by: Sriram G
 
-Register number:212222230149
+Register number: 212222230149
 
 # Load the necessary packages
 
