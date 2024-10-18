@@ -90,6 +90,11 @@ for i in range(0,9):
 
 ### Original Image
 
+![image](https://github.com/user-attachments/assets/ad34e461-735a-4e61-b429-9e37265d56d1)
+
+![image](https://github.com/user-attachments/assets/4b4bf8f1-024e-4142-bf4b-d64a86fd22c3)
+
+![image](https://github.com/user-attachments/assets/38232531-4d56-414b-b849-ee99bf935ae8)
 
 
 ### Global Thresholding
